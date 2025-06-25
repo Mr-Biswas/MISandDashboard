@@ -1,2 +1,3 @@
 # HRanalyticsDashboard
-PowerBI and Excel Project with some advance concept of Excel.
+
+Power BI and Excel Project with some advance concept of Excel and Power BI.
